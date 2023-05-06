@@ -13,6 +13,6 @@ Before running the application, make sure you have the following:
 
 ```bash
 pip install -r requirements.txt
+```
 
-
-![Application Screenshot](Screenshot%202023-05-07%20at%2000.47.42.png)
+![Application Screenshot](https://i.imgur.com/9DUe1Ah.png)
