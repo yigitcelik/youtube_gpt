@@ -10,7 +10,7 @@ from langchain.chains.question_answering import load_qa_chain
 import streamlit as st
 import numpy as np
 import random
-
+#yigit
 
 load_dotenv()
 os.getenv('OPENAI_API_KEY')
