@@ -15,4 +15,4 @@ Before running the application, make sure you have the following:
 pip install -r requirements.txt
 
 
-![Application Screenshot](./Screenshot%202023-05-07%20at%2000.47.42.png)
+![Application Screenshot](Screenshot%202023-05-07%20at%2000.47.42.png)
